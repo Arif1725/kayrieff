@@ -67,7 +67,7 @@ pen.penup()
 pen.goto(-70, -150)
 pen.pendown()
 pen.color("purple")
-pen.write("Happy Birthday for ANTON", font=("Arial", 24, "bold"))
+pen.write("Happy Birthday To Me Utoy", font=("Arial", 24, "bold"))
 
 # Menyembunyikan turtle
 pen.hideturtle()
